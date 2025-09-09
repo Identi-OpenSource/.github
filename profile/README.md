@@ -1,5 +1,5 @@
 ## <p align="center">¡WELCOME TO IDENTI! 🖐️🌎</p>
----
+
 ![front page](front_page.png)
 
 ### OUR MISSION
@@ -8,16 +8,16 @@ Develop an open, voice-based system that validates people's identities and facil
 
 ### WHAT DO WE DO?
 ---
-<p align="center"><span style="color: #ff5b00;">WE TRANSFORM THE VOICE INTO DIGITAL IDENTITY</span></p>
+<p align="center"><img src="wedo.svg" /></p>
 <table border="0">
  <tr>
-    <td>![communities](communities.png)
+     <img src="communities.png" width="350" title="communities">
      We offer a digital wallet that can only be accessed using your voice (biometrics). It allows you to identify yourself, register, store, and exchange information. 
 
 In addition, through this wallet, you can request services without passwords, endless paperwork, or expensive devices.
 
 </td>
-    <td>![organization](organization.png)
+     <img src="organization.png" width="350" title="organization">
      We provide a reliable channel for interacting with and offering services to non-digitized communities. This allows us to reduce barriers and accelerate financial and social inclusion.</td>
  </tr>
 </table>
@@ -25,9 +25,9 @@ In addition, through this wallet, you can request services without passwords, en
 ### OUR VALUE PROPOSITION
 <table border="0">
  <tr border="0">
-    <td>![s](s.png)</td>
-    <td>![i](i.png)</td>
-    <td>![r](r.png)</td>
+    <td><img src="s.png" width="350" title="s"></td>
+    <td><img src="i.png" width="350" title="i"></td>
+    <td><img src="r.png" width="350" title="r"></td>
  </tr>
  <tr border="0">
     <td>Simple for the end user</td>
