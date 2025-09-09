@@ -32,13 +32,13 @@ Develop an open, voice-based system that validates people's identities and facil
       It allows you to identify yourself, register, store, and exchange information. 
       <br><br>
       In addition, through this wallet, you can request services without passwords, 
-      endless paperwork, or expensive devices.</p>
+      endless paperwork, or expensive devices.</p><br>
     </td>
     <td valign="top" width="50%">
       <p align="center"><img src="organization.png" width="100%" title="organization"></p><br>
      <p align="justify"> We provide a reliable channel for interacting with and offering services to 
       non-digitized communities. This allows us to reduce barriers and accelerate 
-      financial and social inclusion.</p>
+      financial and social inclusion.</p><br>
     </td>
   </tr>
 </table>
