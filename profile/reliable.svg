@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="50" viewBox="0 0 400 50">
+  <style>
+    .title { font: 700 22px "Arial", Helvetica, sans-serif; dominant-baseline: middle; }
+    .first { fill: #ff5b00; }
+    .rest  { fill: #111; }
+  </style>
+  <text x="50%" y="50%" text-anchor="middle" class="title">
+    <tspan class="first">R</tspan><tspan class="rest">eliable for organizations</tspan>
+  </text>
+</svg>
