@@ -1,7 +1,7 @@
 
 ## <p align="center">WELCOME TO <b>IDENTI</b>! 🖐️🌎</p>
 
-![front page](front_page.png)
+![front page](frontpage.png)
 <p >
   <a href="https://youtube.com/@identi-mo4yy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
