@@ -1,7 +1,7 @@
 ## <p align="center">¡WELCOME TO <b>IDENTI</b>! 🖐️🌎</p>
 
 ![front page](front_page.png)
-<p align="center">
+<p >
   <a href="https://youtube.com/@identi-mo4yy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
@@ -23,9 +23,10 @@ Develop an open, voice-based system that validates people's identities and facil
 ### WHAT DO WE DO?
 ---
 <p align="center"><img src="wedo.svg" /></p>
-<table style="border-collapse: separate; border-spacing: 0 4px; width: 100%;">
-  <tr style="border: 1px solid #ccc;">
-    <td style="margin: 0px 4px; vertical-align: top;">
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
       <img src="communities.png" width="350" title="communities"><br>
       We offer a digital wallet that can only be accessed using your voice (biometrics). 
       It allows you to identify yourself, register, store, and exchange information. 
@@ -33,7 +34,7 @@ Develop an open, voice-based system that validates people's identities and facil
       In addition, through this wallet, you can request services without passwords, 
       endless paperwork, or expensive devices.
     </td>
-    <td style="padding: 0px 4px; vertical-align: top;">
+    <td valign="top" width="50%">
       <img src="organization.png" width="350" title="organization"><br>
       We provide a reliable channel for interacting with and offering services to 
       non-digitized communities. This allows us to reduce barriers and accelerate 
@@ -43,22 +44,30 @@ Develop an open, voice-based system that validates people's identities and facil
 </table>
 
 
+
 ### OUR VALUE PROPOSITION
-<table style="border-collapse; border: none;">
-  <tr style="border-collapse; border: none;">
-    <td style="border-collapse; border: none;"><img src="s.png" width="350" title="s"></td>
-    <td style="border-collapse; border: none;"><img src="i.png" width="350" title="i"></td>
-    <td style="border-collapse; border: none;"><img src="r.png" width="350" title="r"></td>
-  </tr>
-  <tr style="text-align: center; font-weight: bold;">
-    <td style="border-collapse; border: none;">Simple for the end user</td>
-    <td style="border-collapse; border: none;">Inclusive for communities</td>
-    <td style="border-collapse; border: none;">Reliable for organizations</td>
-  </tr>
-  <tr style="border-collapse; border: none;">
-    <td style="border-collapse; border: none;">Solutions so intuitive that all it takes is a voice to open the door to the digital world.</td>
-    <td style="border-collapse; border: none;">More digital identities, more inclusion, and more trust in communities that were previously disconnected.</td>
-    <td style="border-collapse; border: none;">Robust and secure technology that guarantees identity and access, with a flexible and transparent service model.</td>
+
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="s.png" width="200"><br>
+      <b>Simple for the end user</b><br><br>
+      Solutions so intuitive that all it takes is a voice
+      to open the door to the digital world.
+    </td>
+    <td align="center" width="300">
+      <img src="i.png" width="200"><br>
+      <b>Inclusive for communities</b><br><br>
+      More digital identities, more inclusion, and more trust
+      in communities that were previously disconnected.
+    </td>
+    <td align="center" width="300">
+      <img src="r.png" width="200"><br>
+      <b>Reliable for organizations</b><br><br>
+      Robust and secure technology that guarantees identity
+      and access, with a flexible and transparent service model.
+    </td>
   </tr>
 </table>
+
 
