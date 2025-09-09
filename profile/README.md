@@ -1,3 +1,4 @@
+
 ## <p align="center">¡WELCOME TO <b>IDENTI</b>! 🖐️🌎</p>
 
 ![front page](front_page.png)
@@ -51,19 +52,19 @@ Develop an open, voice-based system that validates people's identities and facil
   <tr>
     <td valign="top" width="33%">
       <p align="center"><img src="s.png" width="200"></p><br>
-      <p align="center"><img src="simple.svg" /></p>
+      <p align="center"><b>Simple for the end user</b></p>
       <p align="center">Solutions so intuitive that all it takes is a voice
       to open the door to the digital world.</p><br>
     </td>
     <td valign="top" width="33%">
       <p align="center"><img src="i.png" width="200"></p><br>
-      <p align="center"><img src="inclusive.svg" /></p>
+      <p align="center"><b>Inclusive for communities</b></p>
       <p align="center">More digital identities, more inclusion, and more trust
       in communities that were previously disconnected.</p><br>
     </td>
    <td valign="top" width="33%">
      <p align="center"><img src="r.png" width="200"></p><br>
-      <p align="center"><img src="reliable.svg" /></p>
+      <p align="center"><b>Reliable for organizations</b></p>
      <p align="center"> Robust and secure technology that guarantees identity
       and access, with a flexible and transparent service model.</p><br>
     </td>
