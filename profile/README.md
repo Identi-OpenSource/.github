@@ -27,18 +27,18 @@ Develop an open, voice-based system that validates people's identities and facil
 <table>
   <tr>
     <td valign="top" width="50%">
-      <p align="center"><img src="communities.png" width="100%" title="communities"></p><br>
-      We offer a digital wallet that can only be accessed using your voice (biometrics). 
+      <p align="center"><img src="communities.png" width="350" title="communities"></p><br>
+      <p align="justify">We offer a digital wallet that can only be accessed using your voice (biometrics). 
       It allows you to identify yourself, register, store, and exchange information. 
       <br><br>
       In addition, through this wallet, you can request services without passwords, 
-      endless paperwork, or expensive devices.
+      endless paperwork, or expensive devices.</p>
     </td>
     <td valign="top" width="50%">
-      <p align="center"><img src="organization.png" width="100%" title="organization"></p><br>
-      We provide a reliable channel for interacting with and offering services to 
+      <p align="center"><img src="organization.png" width="350" title="organization"></p><br>
+     <p align="justify"> We provide a reliable channel for interacting with and offering services to 
       non-digitized communities. This allows us to reduce barriers and accelerate 
-      financial and social inclusion.
+      financial and social inclusion.</p>
     </td>
   </tr>
 </table>
@@ -50,22 +50,22 @@ Develop an open, voice-based system that validates people's identities and facil
 <table>
   <tr>
     <td valign="top" width="33%">
-      <p align="center"><img src="s.png" width="250"></p>
+      <p align="center"><img src="s.png" width="200"></p><br>
       <p align="center"><img src="simple.svg" /></p>
-      Solutions so intuitive that all it takes is a voice
-      to open the door to the digital world.
+      <p align="justify">Solutions so intuitive that all it takes is a voice
+      to open the door to the digital world.</p><br>
     </td>
     <td valign="top" width="33%">
-      <p align="center"><img src="i.png" width="250"></p>
+      <p align="center"><img src="i.png" width="200"></p><br>
       <p align="center"><img src="inclusive.svg" /></p>
-      More digital identities, more inclusion, and more trust
-      in communities that were previously disconnected.
+      <p align="justify">More digital identities, more inclusion, and more trust
+      in communities that were previously disconnected.</p><br>
     </td>
    <td valign="top" width="33%">
-     <p align="center"><img src="r.png" width="250"></p>
+     <p align="center"><img src="r.png" width="200"></p><br>
       <p align="center"><img src="reliable.svg" /></p>
-      Robust and secure technology that guarantees identity
-      and access, with a flexible and transparent service model.
+     <p align="justify"> Robust and secure technology that guarantees identity
+      and access, with a flexible and transparent service model.</p><br>
     </td>
   </tr>
 </table>
