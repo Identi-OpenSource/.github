@@ -1,5 +1,5 @@
 
-## <p align="center">¡WELCOME TO <b>IDENTI</b>! 🖐️🌎</p>
+## <p align="center">WELCOME TO <b>IDENTI</b>! 🖐️🌎</p>
 
 ![front page](front_page.png)
 <p >
