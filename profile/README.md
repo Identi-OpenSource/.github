@@ -27,7 +27,7 @@ Develop an open, voice-based system that validates people's identities and facil
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="communities.png" width="350" title="communities"><br>
+      <p align="center"><img src="communities.png" width="350" title="communities"></p><br>
       We offer a digital wallet that can only be accessed using your voice (biometrics). 
       It allows you to identify yourself, register, store, and exchange information. 
       <br><br>
@@ -35,7 +35,7 @@ Develop an open, voice-based system that validates people's identities and facil
       endless paperwork, or expensive devices.
     </td>
     <td valign="top" width="50%">
-      <img src="organization.png" width="350" title="organization"><br>
+      <p align="center"><img src="organization.png" width="350" title="organization"></p><br>
       We provide a reliable channel for interacting with and offering services to 
       non-digitized communities. This allows us to reduce barriers and accelerate 
       financial and social inclusion.
@@ -49,21 +49,21 @@ Develop an open, voice-based system that validates people's identities and facil
 
 <table>
   <tr>
-    <td align="center" width="300">
-      <img src="s.png" width="200"><br>
-      <b>Simple for the end user</b><br><br>
+    <td valign="top" width="33%">
+      <p align="center"><img src="s.png" width="200"></p><br>
+      <p align="center"><img src="simple.svg" /></p>
       Solutions so intuitive that all it takes is a voice
       to open the door to the digital world.
     </td>
-    <td align="center" width="300">
-      <img src="i.png" width="200"><br>
-      <b>Inclusive for communities</b><br><br>
+    <td valign="top" width="33%">
+      <p align="center"><img src="i.png" width="200"></p><br>
+      <p align="center"><img src="inclusive.svg" /></p>
       More digital identities, more inclusion, and more trust
       in communities that were previously disconnected.
     </td>
-    <td align="center" width="300">
-      <img src="r.png" width="200"><br>
-      <b>Reliable for organizations</b><br><br>
+   <td valign="top" width="33%">
+     <p align="center"><img src="r.png" width="200"></p><br>
+      <p align="center"><img src="reliable.svg" /></p>
       Robust and secure technology that guarantees identity
       and access, with a flexible and transparent service model.
     </td>
